@@ -1,7 +1,7 @@
 {
   "name": "Nduche's Budgeting Masterpiece",
   "short_name": "Budget Masterpiece",
-  "start_url": "./App/index.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -30,4 +30,5 @@
     }
   ]
 }
+
 
