@@ -20,16 +20,9 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "screenshots": [
-    {
-      "src": "screenshot-dashboard.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "label": "Dashboard"
-    }
   ]
 }
+
 
 
 
