@@ -1,6 +1,7 @@
 {
   "name": "Nduche's Budgeting Masterpiece",
   "short_name": "Budget Masterpiece",
+  id: "/App/index.html"
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -30,5 +31,6 @@
     }
   ]
 }
+
 
 
