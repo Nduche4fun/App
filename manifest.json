@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Budgeting Masterpiece",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Budgeting Masterpiece",
+  "start_url": "https://nduche4fun.github.io/App/",
+  "theme_color": "#2563eb",
+  "id": "Budgeting Masterpiece",
+  "lang": "en",
+  "categories": [
+    "finance",
+    "productivity"
+  ]
+}
