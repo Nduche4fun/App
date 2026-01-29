@@ -15,8 +15,8 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('sw.js')
-                    .then(reg => console.log('Service Worker Registered', reg))
+                navigator.serviceWorker.register('./sw.js', {scope: './'})
+                    .then(reg => console.log('Service Worker Registered, scope:', reg))
                     .catch(err => console.log('Service Worker Registration Failed', err));
             });
         }
@@ -3815,6 +3815,7 @@
 </body>
 
 </html>
+
 
 
 
