@@ -27,7 +27,7 @@
       "purpose": "maskable"
     }
   ]
-    "screenshots": [
+  "screenshots": [
     {
       "src": "screenshot-dashboard.png",
       "sizes": "1080x1920",
@@ -37,6 +37,7 @@
     }
   ]
 }
+
 
 
 
